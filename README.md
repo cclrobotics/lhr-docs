@@ -7,3 +7,5 @@ Documentation for the Liquid Handling Robot
 
 # Collaboration Documentation
 - [Q & A with Pedro](lhr-docs/collaborations/Pedro-Terra/07-16-16_Q&A.md)
+
+# [Igor's Brain Github](https://github.com/arcturusbiocloud/igor-brain)
