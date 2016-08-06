@@ -1,1 +1,1 @@
-[Things1](https://github.com/cclrobotics/lhr-docs/wiki/Things1)
+[OpenTrons Liquid handeling robot](https://github.com/cclrobotics/lhr-docs/wiki/Things1)
