@@ -2,4 +2,3 @@
 Welcome to the lhr-docs wiki!
 
 [What is the liquid Handling Robot](https://github.com/cclrobotics/lhr-docs/wiki/Things1)
-[History liquid Handling Robot](https://github.com/cclrobotics/lhr-docs/wiki/Things1)
