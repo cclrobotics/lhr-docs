@@ -1,1 +1,0 @@
-![](https://github.com/cclrobotics/lhr-docs/blob/master/Image/PedroSkypeImages/Pedroskype4.jpg?raw=true)
