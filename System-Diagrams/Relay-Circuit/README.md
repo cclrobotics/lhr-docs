@@ -10,9 +10,13 @@ Several of the instruments are controlelled using relay circuits so here is a li
 - Power Terminals connect to one of the following instruments using two wires (power and ground):
   - Shaker (on/off control)
   - Centrifuge (on/off control)
-  - WL Light box (on/off control)
-  - UV Light box (on/off control)
+  - WL Transiluminator (on/off control)
+  - UV Transiluminator (on/off control)
   - Incubator (arduino uses a [hysteresis controller](https://www.google.com) to maintain temperature at 37C)
+  - Igor Light (on/off control, suspected to be the overhead lights)
+  - Gel electrophoresis (on/off control)
+  - Shaker incubator light (of/off control, there should be an incubator light to warm shaking tubes but I'm not sure where it is)
+  - Some of these are assumed based on the [arduino code](https://github.com/griswaldbrooks/lhr-equipment-controller/blob/master/controller_firmware/controller_firmware.ino).
 
 - Relay
   - Model #: HLS8L-DC5V-S-C
