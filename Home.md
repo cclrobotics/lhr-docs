@@ -7,6 +7,8 @@ Welcome to the lhr-docs wiki!
 
 3.[What does the liquid Handling Robot do?]
 
+4.[liquid Handling Robot Capabilities]
+
 
 
 
@@ -19,5 +21,18 @@ This robot is composed by OpenPCR, DIY Incubators, DIY Transilluminators, Shaker
 Counter Culture Labs was given the robot from Arcturus- Biocloud 
 
 **What does the liquid Handling Robot do?**
+
+**liquid Handling Robot Capabilities/Build/Current Module/**
+-cnc rig (modified opentrons - bigger version: 1,5 m x 1,5m) http://www.opentrons.com/5 
+- incubator (arcturus design) 
+- uv light transiluminator ( modified design from IORodeohttp://public.iorodeo.com/docs/uv_transilluminator/
+- regular light transiluminator (arcturus design)
+- shaker (modified) http://scilogex.com/scilogex-mx-m-microplate-mixer.html4
+- centrifuge (modified Tomy hf 120)
+- -20 C freezer
+- electrophoresis gel (modified IO Rodeo design) http://www.instructables.com/id/Gel-electrophoresis-system-mini/5
+- petridish holding system (arcturus design)
+- plating system (arcturus design)
+- open PCR http://openpcr.org/1
 
 
