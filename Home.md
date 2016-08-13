@@ -25,8 +25,7 @@ Counter Culture Labs was given the robot from Arcturus- Biocloud
 **liquid Handling Robot Capabilities/Build/Current Module/**
 
 
--cnc rig (modified opentrons - bigger version: 1,5 m x 1,5m)
- http://www.opentrons.com/5 
+- cnc rig (modified opentrons - bigger version: 1,5 m x 1,5m)http://www.opentrons.com/5 
 - incubator (arcturus design) 
 - uv light transiluminator ( modified design from IORodeohttp://public.iorodeo.com/docs/uv_transilluminator/
 - regular light transiluminator (arcturus design)
