@@ -5,7 +5,7 @@ http://www.instructables.com/id/Gel-electrophoresis-system-mini/
 
 Diagram of the System here.
 
-![](https://github.com/cclrobotics/lhr-docs/blob/master/System-Diagrams/Electophoresis-System/0.125inch_clear_acrylic.pdf
+![](https://github.com/cclrobotics/lhr-docs/blob/master/System-Diagrams/Electophoresis-System/0.125inch_clear_acrylic.pdfraw=true)
 
 What are the components?
 - Thing1
