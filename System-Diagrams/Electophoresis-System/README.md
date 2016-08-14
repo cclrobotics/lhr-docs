@@ -5,6 +5,8 @@ http://www.instructables.com/id/Gel-electrophoresis-system-mini/
 
 Diagram of the System here.
 
+Diagrams
+
 What are the components?
 - Thing1
 - DC-DC Converter
