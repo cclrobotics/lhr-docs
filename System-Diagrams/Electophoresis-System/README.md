@@ -1,5 +1,8 @@
 #Electophoresis System
 
+http://www.instructables.com/id/Gel-electrophoresis-system-mini/
+
+
 Diagram of the System here.
 
 What are the components?
