@@ -15,25 +15,25 @@ Hardware and tools
 
 From McMaster-Carr:
 
-2-56 Hand Tap Taper, Cat # 2522A663
-Tap Wrench Sliding T-Handle, 0-1/4" (1.6-6.3mm) Tap Size, Cat # 2546A22
-2x 2-56 Nylon Pan Head Slotted Machine Screw, 3/16" Length, Cat # 93135A076
-4x 2-56 Nylon Pan Head Slotted Machine Screw, 1/8" Length, Cat # 93135A074
-Stainless steel wire, 0.01" diam. Cat # 9882K31
-2x 6/32 Hex machine nuts Cat # 91841A007
-2x Flat Washer, No. 6 Screw Size, 5/16"Cat #  92141A008
+- 2-56 Hand Tap Taper, Cat # 2522A663
+- Tap Wrench Sliding T-Handle, 0-1/4" (1.6-6.3mm) Tap Size, Cat # 2546A22
+- 2x 2-56 Nylon Pan Head Slotted Machine Screw, 3/16" Length, Cat # 93135A076
+- 4x 2-56 Nylon Pan Head Slotted Machine Screw, 1/8" Length, Cat # 93135A074
+- Stainless steel wire, 0.01" diam. Cat # 9882K31
+- 2x 6/32 Hex machine nuts Cat # 91841A007
+- 2x Flat Washer, No. 6 Screw Size, 5/16"Cat #  92141A008
 
 From TAP Plastics:
 
-IPS weld-on cement #3 or 4, Cat # 10792
-Hypo-type solvent cement applicator, Cat # 25658
+- IPS weld-on cement #3 or 4, Cat # 10792
+- Hypo-type solvent cement applicator, Cat # 25658
 
 From Digi-Key:
 
-2x Banana plug, Cat #655K-ND
-Black banana plug cable, 36", Cat # 4771-36-0-ND
-Red banana plug cable, 36", Cat # 4771-36-2-ND
-4x Rubber feet , Cat # SJ5012-0-ND
+- 2x Banana plug, Cat #655K-ND
+- Black banana plug cable, 36", Cat # 4771-36-0-ND
+- Red banana plug cable, 36", Cat # 4771-36-2-ND
+- 4x Rubber feet , Cat # SJ5012-0-ND
 
 
 ## Thing1
