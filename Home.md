@@ -11,7 +11,7 @@ Welcome to the lhr-docs wiki!
 
 
 
-<a id="what-is-lhr"></a>
+<a name="what-is-lhr"></a>
 **What is the liquid Handling Robot**
 
 This robot is composed by OpenPCR, DIY Incubators, DIY Transilluminators, Shaker, Centrifuge, Gel electrophoresis, pipette machine based on OpenTrons design, temperature and humidity sensors, cameras, arduino and a Raspberry PI2.
